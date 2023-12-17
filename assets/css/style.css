@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+}
+main{
+    text-align: center;
+    border: 2px solid black;
+    width: 300px;
+    height: 400px;
+  margin-left: 40%;
+  margin-top: 10%;
+  border-radius: 5%;
+}
+div{
+    background-color: beige;
+    padding-top: 5px;
+    padding-bottom: 60px;
+    border-radius: 5%;
+}
